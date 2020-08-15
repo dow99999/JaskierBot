@@ -1,0 +1,38 @@
+body, html {
+    height: 100%;
+}
+
+.max-height {
+    height: 100%;
+}
+
+.margin-center-y {
+    padding: 20% 0 0 0;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("../img/bg-aurora.jpg");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.margin-table {
+    margin: 4em 15% 4em 15%;
+
+}
+
+.margin-final{
+    margin-bottom: 5em;
+}
+
+.foto-head{
+    height: 2em;
+    width: 2em;
+    margin-right: .5em;
+}
